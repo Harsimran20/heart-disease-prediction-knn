@@ -137,4 +137,4 @@ python KNN.py
 
 This project demonstrates a structured approach to building a machine learning model for heart disease prediction. While effective as a baseline, further optimization is required for real-world deployment.
 
--
+
